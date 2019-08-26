@@ -1,0 +1,7 @@
+pluginSuites:
+  - name: jenkins-zh
+    plugins:
+      - workflow-aggregator
+      - blueocean
+      - hugo
+      - multi-branch-priority-sorter
